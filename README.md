@@ -19,13 +19,13 @@
 <h3 align="center">💻 My Github Stats 💻</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeongDall&show_icons=true&count_private=true&hide=issues"></p>
 <br>
-<h3 align="center">🌱 About Me 🌱</h3>
+<h3 align="center">🌿 About Me 🌿</h3>
 <p align="center">
 <a href="https://"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
 </p>
 <br>
 <h3 align="center">😊 My Blog 😊</h3>
-<p align="center"><a href="https://J.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
+<p align="center"><a href="https://jeongdall.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
 <br>
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
