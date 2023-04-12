@@ -17,11 +17,11 @@
 <br>
 
 <h3 align="center">💻 My Github Stats 💻</h3>
-<p align="center"><img src="https://www.notion.so/DALL-s-91c9ed7d472a40d9a99f5b2a391054e6?pvs=4//github-readme-stats.vercel.app/api?username=JeongDall&show_icons=true&count_private=true&hide=issues"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeongDall&show_icons=true&count_private=true&hide=issues"></p>
 <br>
 <h3 align="center">🌿 About Me 🌿</h3>
 <p align="center">
-<a href="https://"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://www.notion.so/DALL-s-91c9ed7d472a40d9a99f5b2a391054e6?pvs=4"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
 </p>
 <br>
 <h3 align="center">😊 My Blog 😊</h3>
