@@ -25,7 +25,7 @@
 <br>
 <h3 align="center">🌿 About Me 🌿</h3>
 <p align="center">
-<a href="https://www.notion.so/DALL-s-91c9ed7d472a40d9a99f5b2a391054e6?pvs=4"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://www.notion.so/Dall-s-6904e881206a4857b944f2c4810ecfb5"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
 </p>
 <br>
 <h3 align="center">😊 My Blog 😊</h3>
